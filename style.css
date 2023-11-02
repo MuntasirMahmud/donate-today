@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    margin: 0px;
+
+}
+
+
+
+
+h1 {
+    font-size: 40px;
+
+}
+
+
+
+
+.first-section {
+
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding: 120px;
+
+
+}
+
+.donate-btn {
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.second-section {
+    text-align: center;
+
+}
